@@ -1,0 +1,2 @@
+Bu program visual studio 2019 kullanýlarak build edildi. Visual studio 2019'a OPENGL ve GLUT kütüphanelerini dahil ederek boþ bir proje oluþturup aplication.cpp dosyasýný bu projeye ekleyerek programý çalýþtýrabilirsiniz.
+Visual studio 2019'a yukarýda belirtilen kütüphaneleri dahil etmek için 'https://www.absingh.com/opengl/' adresinde belirtilen yönergeleri uygulayabilirsiniz.
